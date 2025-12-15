@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Knowledge acquisition plans Generation, combination, and execution"
             }
+          },
+          {
+            "id": "5ca3998ac2f192f5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge acquisition plans Generation, combination, and execution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Knowledge acquisition plans Generation, combination, and execution"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge acquisition plans Generation, combination, and execution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Knowledge acquisition plans Generation, combination, and execution"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +165,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge acquisition plans Generation, combination, and execution.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Knowledge acquisition plans Generation, combination, and execution"
+              "title": "Outline"
             }
           }
         ]
@@ -184,13 +192,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "277ddb95649c7f3c",
+  "active": "5ca3998ac2f192f5",
   "lastOpenFiles": [
     "Decision Diagrams as Plans - Answering observation-grounded queries.md",
     "Knowledge acquisition plans Generation, combination, and execution.md",
-    "Minimal sensor activation and minimal communication in discrete-event systems.md",
-    "Belief space planning assuming maximum likelihood observations.md",
     "Locally Observable Markov Decision Processes.md",
+    "Belief space planning assuming maximum likelihood observations.md",
+    "Strips, A new approach to the application of theorem proving to problem solving.md",
+    "Minimal sensor activation and minimal communication in discrete-event systems.md",
     "Minimizing the cardinality of an events set for supervisors of discrete-event dynamical systems.md",
     "().md",
     "MRTA-IG-EGA-Research-Notes/README.md",
