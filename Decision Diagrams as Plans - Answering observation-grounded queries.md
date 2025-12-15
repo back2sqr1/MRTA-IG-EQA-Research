@@ -18,7 +18,7 @@ Main Point:
 
 Core Ideas: 
 - We ask robots questions rather than telling them what to do
-- Data acquisition exists in [information path planning](Nonmyopic%20Adaptive%20Informative%20Path%20Planning%20for%20Multiple%20Robots) and [information gathering](Sampling-based%20otion%20Planning%20for%20Robotic%20Information%20Gathering) - They are good at getting large quantities of data
+- Data acquisition exists in [information path planning](Nonmyopic%20Adaptive%20Informative%20Path%20Planning%20for%20Multiple%20Robots.md) and [information gathering](Sampling-based%20otion%20Planning%20for%20Robotic%20Information%20Gathering) - They are good at getting large quantities of data
 -  Rather than useful aggregated statistical analysis of data - let's get the finer relationships directly from the world
 - The problem is similar to a fields in **active sensing, sensor selection, triage of captured data**
 - The knowledge acquisition family is close cousins of **EQA** - of which Shell's work involves "perceptual challenges" - issues with perceiving

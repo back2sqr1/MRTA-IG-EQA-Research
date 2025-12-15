@@ -13,22 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge acquisition plans Generation, combination, and execution.md",
+                "file": "Decision Diagrams as Plans - Answering observation-grounded queries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knowledge acquisition plans Generation, combination, and execution"
+              "title": "Decision Diagrams as Plans - Answering observation-grounded queries"
             }
           },
           {
-            "id": "5ca3998ac2f192f5",
+            "id": "e82157894cfffa93",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Sampling-based otion Planning for Robotic Information Gathering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sampling-based otion Planning for Robotic Information Gathering"
             }
           }
         ],
@@ -64,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:InformativePathPlanning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sampling-based otion Planning for Robotic Information Gathering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Sampling-based otion Planning for Robotic Information Gathering"
             }
           },
           {
@@ -123,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sampling-based otion Planning for Robotic Information Gathering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Sampling-based otion Planning for Robotic Information Gathering"
             }
           },
           {
@@ -165,19 +172,20 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Sampling-based otion Planning for Robotic Information Gathering.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Sampling-based otion Planning for Robotic Information Gathering"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -192,20 +200,22 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5ca3998ac2f192f5",
+  "active": "e82157894cfffa93",
   "lastOpenFiles": [
     "Decision Diagrams as Plans - Answering observation-grounded queries.md",
-    "Knowledge acquisition plans Generation, combination, and execution.md",
-    "Locally Observable Markov Decision Processes.md",
-    "Belief space planning assuming maximum likelihood observations.md",
-    "Strips, A new approach to the application of theorem proving to problem solving.md",
-    "Minimal sensor activation and minimal communication in discrete-event systems.md",
+    "Sampling-based otion Planning for Robotic Information Gathering.md",
+    "Nonmyopic Adaptive Informative Path Planning for Multiple Robots.md",
+    "Informative Path Planning",
     "Minimizing the cardinality of an events set for supervisors of discrete-event dynamical systems.md",
+    "Knowledge acquisition plans Generation, combination, and execution.md",
+    "Minimal sensor activation and minimal communication in discrete-event systems.md",
+    "Reactivity and statefulness, Action-based sensors, plans, and necessary state.md",
+    "Belief space planning assuming maximum likelihood observations.md",
+    "Locally Observable Markov Decision Processes.md",
+    "Strips, A new approach to the application of theorem proving to problem solving.md",
     "().md",
     "MRTA-IG-EGA-Research-Notes/README.md",
     "MRTA-IG-EGA-Research-Notes",
-    "Sampling-based otion Planning for Robotic Information Gathering.md",
-    "Nonmyopic Adaptive Informative Path Planning for Multiple Robots.md",
     "Sampling-based.md",
     "information gathering.md",
     "Nonmyopic Adaptive Informative.md",
