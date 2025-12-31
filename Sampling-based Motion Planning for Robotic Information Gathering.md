@@ -1,0 +1,1 @@
+Proposal: Incremental sampling-based motion planning algorithm for maximally informative trajectories

@@ -26,3 +26,6 @@ Notes:
 - Path planning application - search and rescue
 - These involve uncertain environments with complex dynamics
 - Nonadpative (offline algorithms) - plan and commit before any observation
+
+
+TODO
